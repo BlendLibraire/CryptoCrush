@@ -161,4 +161,4 @@ async def ask_beg(message):
 
 
 # Replace 'YOUR_DISCORD_BOT_TOKEN' with your actual bot token
-client.run('MTEzNTc4NjMxNDY2NzY1OTMzNQ.GlSqTv.ewFFz8b9scoPg31IG7gilkX8Men-sv1O3v2lwc')
+client.run('BOT_TOKEN')
